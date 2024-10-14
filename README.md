@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Financal Modelling Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Financial Accounting Model in Excel: Automated model from posting transaction to Balance Sheet</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 C Sharp Desktop Application Projects:</h2>
