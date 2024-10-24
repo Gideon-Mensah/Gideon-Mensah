@@ -7,11 +7,11 @@
     
 - <b>IFRS 9 Impairment Calculation Excel Model</b>
   - [IFRS 9 Excel Model](https://github.com/Gideon-Mensah/ifrs9model)
-
+<!-- 
 <h2>👨‍💻 C Sharp Desktop Application Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
