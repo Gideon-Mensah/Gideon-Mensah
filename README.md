@@ -113,26 +113,6 @@ Key features include:
 
 ---
 
-### 💳 Debt Management Application
-
-A mobile and web application for recording customer debts, tracking payments, and monitoring outstanding balances.
-
-Key features include:
-
-- Customer management
-- Debt recording
-- Payment tracking
-- Outstanding balance calculation
-- Financial reports
-- Recent transaction history
-- Mobile and desktop dashboards
-
-**Technologies:** React Native, JavaScript, Supabase
-
-[View Project Repository](YOUR_REPOSITORY_LINK)
-
----
-
 ## 📈 Accounting and Data Analysis Projects
 
 ### Automated Financial Accounting System
