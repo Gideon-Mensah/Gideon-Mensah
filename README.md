@@ -86,7 +86,7 @@ Key features include:
 
 **Technologies:** Python, Django, Django REST Framework, PostgreSQL
 
-[View Project Repository](YOUR_REPOSITORY_LINK)
+[View Project Repository](https://github.com/Gideon-Mensah/Schedulo)
 
 ---
 
@@ -107,7 +107,7 @@ Key features include:
 
 **Technologies:** React, Python, Django REST Framework, PostgreSQL
 
-[View Project Repository](YOUR_REPOSITORY_LINK)
+[View Project Repository](https://github.com/Gideon-Mensah/istocks)
 
 ---
 
@@ -126,19 +126,20 @@ The system includes:
 - Statement of financial position
 - Automated calculations and reporting
 
-[View Project](YOUR_PROJECT_LINK)
+[View Project](https://github.com/Gideon-Mensah/fmexcelaccount)
 
 ### IFRS 9 Expected Credit Loss Model
 
 An Excel financial model for calculating impairment and expected credit losses under IFRS 9.
 
-[View Project](YOUR_PROJECT_LINK)
+[View Project](https://github.com/Gideon-Mensah/ifrs9model)
 
 ### Simple Linear Regression Analysis
 
 A Python and Jupyter Notebook project covering data preparation, regression analysis, interpretation, and visualisation.
 
-[View Project](YOUR_PROJECT_LINK)
+[View Project](https://github.com/Gideon-Mensah/simple_linear_regression
+)
 
 ---
 
