@@ -43,7 +43,7 @@ The application is available on the Apple App Store.
 
 **Technologies:** React Native, Expo, JavaScript, SQLite
 
-[View Repository](YOUR_MEROTA_REPOSITORY_LINK)  
+[View Repository](https://github.com/Gideon-Mensah/merota-planner)  
 [Download on the App Store](YOUR_APP_STORE_LINK)
 
 ---
