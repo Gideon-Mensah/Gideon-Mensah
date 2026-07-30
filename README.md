@@ -233,8 +233,8 @@ I’m particularly interested in roles where I can combine accounting knowledge 
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Gideon Mensah]in/gideon-mensah-55a3a7175
-- **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_LINK)
+- **LinkedIn:** [Gideon Mensah](in/gideon-mensah-55a3a7175)
+- **Portfolio:** [View My Portfolio](https://gideon-mensah.github.io/)
 - **Email:** gideonmensah681@outlook.com
 - **Location:** Sheffield, United Kingdom
 
